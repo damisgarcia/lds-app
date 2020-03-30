@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "Blank Template",
+    "name": "Luz do Saber Fundamental",
     "slug": "lds-app",
     "privacy": "public",
     "sdkVersion": "36.0.0",
@@ -28,6 +28,9 @@
     },
     "androidNavigationBar": {
       "visible": false
+    },
+    "extra": {
+      "projectURL": "http://luz-do-saber-portal-staging.herokuapp.com"
     }
   }
 }

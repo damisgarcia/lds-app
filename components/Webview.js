@@ -1,7 +1,9 @@
 import React, { useEffect  } from 'react'
-import { StyleSheet, BackHandler, Alert } from 'react-native'
+import { StyleSheet, BackHandler, Alert, Text, KeyboardAvoidingView } from 'react-native'
 import { ScreenOrientation } from 'expo'
 import { WebView } from 'react-native-webview'
+
+import Constants from 'expo-constants';
 
 function WebViewComponent(props){
     async function changeScreenOrientation() {
@@ -23,13 +25,21 @@ function WebViewComponent(props){
         });
     }, [])
 
+    console.log(Constants.manifest.extra)
 
-    return (
-        <WebView 
-            source={{ uri: 'https://reactnative.dev/' }} 
-            onLoadEnd={onLoadEnd} 
-        />
-    )
+    if (Constants.manifest.extra && Constants.manifest.extra.projectURL) {
+        return (
+            <KeyboardAvoidingView behavior="padding" style={{
+                flex: 1
+            }}>
+                <WebView 
+                    source={{ uri: Constants.manifest.extra.projectURL }}
+                    onLoadEnd={onLoadEnd} 
+                />
+            </KeyboardAvoidingView>
+        )
+    }
+    return <Text>Não foi possível alcançar URL</Text>
 }
 
 const styles = StyleSheet.create({

@@ -3,10 +3,12 @@ import React, { useState } from 'react'
 import { 
     ActivityIndicator, 
     View, 
-    StyleSheet 
+    StyleSheet,
+    KeyboardAvoidingView
 } from 'react-native'
 
 import WebView from './Webview'
+import Statusbar from './Statusbar'
 
 export default function Browser() {
     const [isReady, setIsReady] = useState(false)
@@ -36,6 +38,7 @@ export default function Browser() {
 
     return (
         <View style={styles.block}>
+            <Statusbar />
             <RenderLoading />
             <RenderWebView />
         </View>
