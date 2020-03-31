@@ -25,13 +25,9 @@ function WebViewComponent(props){
         });
     }, [])
 
-    console.log(Constants.manifest.extra)
-
     if (Constants.manifest.extra && Constants.manifest.extra.projectURL) {
         return (
-            <KeyboardAvoidingView behavior="padding" style={{
-                flex: 1
-            }}>
+            <KeyboardAvoidingView behavior="padding" style={styles.block}>
                 <WebView 
                     source={{ uri: Constants.manifest.extra.projectURL }}
                     onLoadEnd={onLoadEnd} 
@@ -48,4 +44,4 @@ const styles = StyleSheet.create({
     }
 })
 
-export default WebViewComponent;
+export default WebViewComponent
