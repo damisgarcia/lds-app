@@ -9,7 +9,7 @@
       "android",
       "web"
     ],
-    "version": "1.0.0",
+    "version": "1.0.1",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
@@ -23,14 +23,15 @@
     "assetBundlePatterns": [
       "**/*"
     ],
-    "ios": {
-      "supportsTablet": true
+    "android": {
+      "package": "br.ufc.virtual.lme.luzdosaber",
+      "versionCode": 2
     },
     "androidNavigationBar": {
       "visible": false
     },
     "extra": {
-      "projectURL": "http://luz-do-saber-portal-staging.herokuapp.com"
+      "projectURL": "https://luz-do-saber-portal-production.herokuapp.com"
     }
   }
 }
