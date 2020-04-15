@@ -30,14 +30,21 @@
     "android": {
       "icon": "./assets/icon.android.png",
       "package": "br.ufc.virtual.lme.luzdosaber",
-      "versionCode": 4,
-      "permissions": []
+      "versionCode": 5,
+      "permissions": [],
+      "publishBundlePath": "android\\app\\src\\main\\assets\\shell-app.bundle",
+      "publishManifestPath": "android\\app\\src\\main\\assets\\shell-app-manifest.json"
     },
     "androidNavigationBar": {
       "visible": false
     },
     "extra": {
       "projectURL": "https://luz-do-saber-portal-production.herokuapp.com"
-    }
+    },
+    "isDetached": true,
+    "detach": {
+      "androidExpoViewUrl": "https://s3.amazonaws.com/exp-exponent-view-code/android-v2.14.2-sdk36.0.0-ce7e16db-fd5d-4fdd-bdeb-701ba94a04d1.tar.gz"
+    },
+    "scheme": "exp2853272907524d4390e0621b5962deda"
   }
 }
