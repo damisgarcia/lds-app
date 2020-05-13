@@ -1,0 +1,250 @@
+# Referenced at C:\Users\damisgarcia\projects\apps\lds-app\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:153
+-keep class abi33_0_0.com.facebook.react.devsupport.DevSettingsActivity { <init>(); }
+# Referenced at C:\Users\damisgarcia\projects\apps\lds-app\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:235
+-keep class abi33_0_0.expo.modules.payments.stripe.RedirectUriReceiver { <init>(); }
+# Referenced at C:\Users\damisgarcia\projects\apps\lds-app\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:150
+-keep class abi34_0_0.com.facebook.react.devsupport.DevSettingsActivity { <init>(); }
+# Referenced at C:\Users\damisgarcia\projects\apps\lds-app\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:219
+-keep class abi34_0_0.expo.modules.payments.stripe.RedirectUriReceiver { <init>(); }
+# Referenced at C:\Users\damisgarcia\projects\apps\lds-app\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:147
+-keep class abi35_0_0.com.facebook.react.devsupport.DevSettingsActivity { <init>(); }
+# Referenced at C:\Users\damisgarcia\projects\apps\lds-app\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:203
+-keep class abi35_0_0.expo.modules.payments.stripe.RedirectUriReceiver { <init>(); }
+# Referenced at C:\Users\damisgarcia\projects\apps\lds-app\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:144
+-keep class abi36_0_0.com.facebook.react.devsupport.DevSettingsActivity { <init>(); }
+# Referenced at C:\Users\damisgarcia\projects\apps\lds-app\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:187
+-keep class abi36_0_0.expo.modules.payments.stripe.RedirectUriReceiver { <init>(); }
+# Referenced at C:\Users\damisgarcia\projects\apps\lds-app\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:80
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at C:\Users\damisgarcia\projects\apps\lds-app\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:428
+-keep class androidx.core.content.FileProvider { <init>(); }
+# Referenced at C:\Users\damisgarcia\projects\apps\lds-app\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:617
+-keep class com.crashlytics.android.CrashlyticsInitProvider { <init>(); }
+# Referenced at C:\Users\damisgarcia\projects\apps\lds-app\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:608
+-keep class com.facebook.CampaignTrackingReceiver { <init>(); }
+# Referenced at C:\Users\damisgarcia\projects\apps\lds-app\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:601
+-keep class com.facebook.CurrentAccessTokenExpirationBroadcastReceiver { <init>(); }
+# Referenced at C:\Users\damisgarcia\projects\apps\lds-app\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:461
+-keep class com.facebook.CustomTabActivity { <init>(); }
+# Referenced at C:\Users\damisgarcia\projects\apps\lds-app\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:460
+-keep class com.facebook.CustomTabMainActivity { <init>(); }
+# Referenced at C:\Users\damisgarcia\projects\apps\lds-app\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:262
+-keep class com.facebook.FacebookActivity { <init>(); }
+# Referenced at C:\Users\damisgarcia\projects\apps\lds-app\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:462
+-keep class com.facebook.ads.AudienceNetworkActivity { <init>(); }
+# Referenced at C:\Users\damisgarcia\projects\apps\lds-app\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:267
+-keep class com.facebook.ads.InterstitialAdActivity { <init>(); }
+# Referenced at C:\Users\damisgarcia\projects\apps\lds-app\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:475
+-keep class com.facebook.ads.internal.ipc.AdsMessengerService { <init>(); }
+# Referenced at C:\Users\damisgarcia\projects\apps\lds-app\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:472
+-keep class com.facebook.ads.internal.ipc.AdsProcessPriorityService { <init>(); }
+# Referenced at C:\Users\damisgarcia\projects\apps\lds-app\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:466
+-keep class com.facebook.ads.internal.ipc.RemoteANActivity { <init>(); }
+# Referenced at C:\Users\damisgarcia\projects\apps\lds-app\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:596
+-keep class com.facebook.internal.FacebookInitProvider { <init>(); }
+# Referenced at C:\Users\damisgarcia\projects\apps\lds-app\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:140
+-keep class com.facebook.react.devsupport.DevSettingsActivity { <init>(); }
+# Referenced at C:\Users\damisgarcia\projects\apps\lds-app\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:479
+-keep class com.google.android.gms.analytics.AnalyticsJobService { <init>(); }
+# Referenced at C:\Users\damisgarcia\projects\apps\lds-app\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:295
+-keep class com.google.android.gms.analytics.AnalyticsReceiver { <init>(); }
+# Referenced at C:\Users\damisgarcia\projects\apps\lds-app\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:304
+-keep class com.google.android.gms.analytics.AnalyticsService { <init>(); }
+# Referenced at C:\Users\damisgarcia\projects\apps\lds-app\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:497
+-keep class com.google.android.gms.auth.api.signin.RevocationBoundService { <init>(); }
+# Referenced at C:\Users\damisgarcia\projects\apps\lds-app\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:488
+-keep class com.google.android.gms.auth.api.signin.internal.SignInHubActivity { <init>(); }
+# Referenced at C:\Users\damisgarcia\projects\apps\lds-app\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:548
+-keep class com.google.android.gms.common.api.GoogleApiActivity { <init>(); }
+# Referenced at C:\Users\damisgarcia\projects\apps\lds-app\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:310
+-keep class com.google.android.gms.gcm.GcmReceiver { <init>(); }
+# Referenced at C:\Users\damisgarcia\projects\apps\lds-app\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:564
+-keep class com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver { <init>(); }
+# Referenced at C:\Users\damisgarcia\projects\apps\lds-app\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:578
+-keep class com.google.android.gms.measurement.AppMeasurementJobService { <init>(); }
+# Referenced at C:\Users\damisgarcia\projects\apps\lds-app\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:559
+-keep class com.google.android.gms.measurement.AppMeasurementReceiver { <init>(); }
+# Referenced at C:\Users\damisgarcia\projects\apps\lds-app\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:574
+-keep class com.google.android.gms.measurement.AppMeasurementService { <init>(); }
+# Referenced at C:\Users\damisgarcia\projects\apps\lds-app\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:528
+-keep class com.google.firebase.components.ComponentDiscoveryService { <init>(); }
+# Referenced at C:\Users\damisgarcia\projects\apps\lds-app\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:539
+-keep class com.google.firebase.iid.FirebaseInstanceIdReceiver { <init>(); }
+# Referenced at C:\Users\damisgarcia\projects\apps\lds-app\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:521
+-keep class com.google.firebase.messaging.FirebaseMessagingService { <init>(); }
+# Referenced at C:\Users\damisgarcia\projects\apps\lds-app\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:553
+-keep class com.google.firebase.provider.FirebaseInitProvider { <init>(); }
+# Referenced at C:\Users\damisgarcia\projects\apps\lds-app\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:361
+-keep class com.theartofdev.edmodo.cropper.CropImageActivity { <init>(); }
+# Referenced at C:\Users\damisgarcia\projects\apps\lds-app\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:446
+-keep class expo.modules.filesystem.FileSystemFileProvider { <init>(); }
+# Referenced at C:\Users\damisgarcia\projects\apps\lds-app\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:456
+-keep class expo.modules.location.services.LocationTaskService { <init>(); }
+# Referenced at C:\Users\damisgarcia\projects\apps\lds-app\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:171
+-keep class expo.modules.payments.stripe.RedirectUriReceiver { <init>(); }
+# Referenced at C:\Users\damisgarcia\projects\apps\lds-app\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:273
+-keep class host.exp.exponent.ExponentIntentService { <init>(); }
+# Referenced at C:\Users\damisgarcia\projects\apps\lds-app\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:89
+-keep class host.exp.exponent.LauncherActivity { <init>(); }
+# Referenced at C:\Users\damisgarcia\projects\apps\lds-app\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:101
+-keep class host.exp.exponent.MainActivity { <init>(); }
+# Referenced at C:\Users\damisgarcia\projects\apps\lds-app\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:80
+-keep class host.exp.exponent.MainApplication { <init>(); }
+# Referenced at C:\Users\damisgarcia\projects\apps\lds-app\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:252
+-keep class host.exp.exponent.experience.ErrorActivity { <init>(); }
+# Referenced at C:\Users\damisgarcia\projects\apps\lds-app\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:95
+-keep class host.exp.exponent.experience.ExperienceActivity { <init>(); }
+# Referenced at C:\Users\damisgarcia\projects\apps\lds-app\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:122
+-keep class host.exp.exponent.experience.HomeActivity { <init>(); }
+# Referenced at C:\Users\damisgarcia\projects\apps\lds-app\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:257
+-keep class host.exp.exponent.experience.InfoActivity { <init>(); }
+# Referenced at C:\Users\damisgarcia\projects\apps\lds-app\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:129
+-keep class host.exp.exponent.experience.TvActivity { <init>(); }
+# Referenced at C:\Users\damisgarcia\projects\apps\lds-app\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:342
+-keep class host.exp.exponent.fcm.ExpoFcmMessagingService { <init>(); }
+# Referenced at C:\Users\damisgarcia\projects\apps\lds-app\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:355
+-keep class host.exp.exponent.fcm.FcmRegistrationIntentService { <init>(); }
+# Referenced at C:\Users\damisgarcia\projects\apps\lds-app\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:322
+-keep class host.exp.exponent.gcm.ExponentGcmListenerService { <init>(); }
+# Referenced at C:\Users\damisgarcia\projects\apps\lds-app\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:329
+-keep class host.exp.exponent.gcm.ExponentInstanceIDListenerService { <init>(); }
+# Referenced at C:\Users\damisgarcia\projects\apps\lds-app\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:336
+-keep class host.exp.exponent.gcm.GcmRegistrationIntentService { <init>(); }
+# Referenced at C:\Users\damisgarcia\projects\apps\lds-app\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:414
+-keep class host.exp.exponent.notifications.ScheduledNotificationReceiver { <init>(); }
+# Referenced at C:\Users\damisgarcia\projects\apps\lds-app\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:417
+-keep class host.exp.exponent.notifications.receivers.SchedulingTriggerReceiver { <init>(); }
+# Referenced at C:\Users\damisgarcia\projects\apps\lds-app\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:278
+-keep class host.exp.exponent.referrer.InstallReferrerReceiver { <init>(); }
+# Referenced at C:\Users\damisgarcia\projects\apps\lds-app\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:508
+-keep class io.nlopez.smartlocation.activity.providers.ActivityGooglePlayServicesProvider$ActivityRecognitionService { <init>(); }
+# Referenced at C:\Users\damisgarcia\projects\apps\lds-app\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:514
+-keep class io.nlopez.smartlocation.geocoding.providers.AndroidGeocodingProvider$AndroidGeocodingService { <init>(); }
+# Referenced at C:\Users\damisgarcia\projects\apps\lds-app\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:511
+-keep class io.nlopez.smartlocation.geofencing.providers.GeofencingGooglePlayServicesProvider$GeofencingService { <init>(); }
+# Referenced at C:\Users\damisgarcia\projects\apps\lds-app\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:502
+-keep class net.openid.appauth.AuthorizationManagementActivity { <init>(); }
+# Referenced at C:\Users\damisgarcia\projects\apps\lds-app\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:157
+-keep class net.openid.appauth.RedirectUriReceiverActivity { <init>(); }
+# Referenced at C:\Users\damisgarcia\projects\apps\lds-app\android\app\build\intermediates\merged_manifests\release\AndroidManifest.xml:437
+-keep class versioned.host.exp.exponent.modules.api.components.webview.RNCWebViewFileProvider { <init>(); }
+# Referenced at C:\Users\damisgarcia\.gradle\caches\transforms-2\files-2.1\08d5dcb2ad36c8c391956f8e4b207bda\appcompat-1.1.0\res\layout\abc_alert_dialog_title_material.xml:57
+# Referenced at C:\Users\damisgarcia\.gradle\caches\transforms-2\files-2.1\08d5dcb2ad36c8c391956f8e4b207bda\appcompat-1.1.0\res\layout\abc_alert_dialog_material.xml:52
+# Referenced at C:\Users\damisgarcia\.gradle\caches\transforms-2\files-2.1\08d5dcb2ad36c8c391956f8e4b207bda\appcompat-1.1.0\res\layout\abc_alert_dialog_button_bar_material.xml:43
+-keep class android.widget.Space { <init>(...); }
+
+# Referenced at C:\Users\damisgarcia\.gradle\caches\transforms-2\files-2.1\08d5dcb2ad36c8c391956f8e4b207bda\appcompat-1.1.0\res\layout\abc_select_dialog_material.xml:23
+-keep class androidx.appcompat.app.AlertController$RecycleListView { <init>(...); }
+
+# Referenced at C:\Users\damisgarcia\.gradle\caches\transforms-2\files-2.1\08d5dcb2ad36c8c391956f8e4b207bda\appcompat-1.1.0\res\layout\abc_action_menu_item_layout.xml:17
+-keep class androidx.appcompat.view.menu.ActionMenuItemView { <init>(...); }
+
+# Referenced at C:\Users\damisgarcia\.gradle\caches\transforms-2\files-2.1\08d5dcb2ad36c8c391956f8e4b207bda\appcompat-1.1.0\res\layout\abc_expanded_menu_layout.xml:17
+-keep class androidx.appcompat.view.menu.ExpandedMenuView { <init>(...); }
+
+# Referenced at C:\Users\damisgarcia\.gradle\caches\transforms-2\files-2.1\08d5dcb2ad36c8c391956f8e4b207bda\appcompat-1.1.0\res\layout\abc_popup_menu_item_layout.xml:17
+# Referenced at C:\Users\damisgarcia\.gradle\caches\transforms-2\files-2.1\08d5dcb2ad36c8c391956f8e4b207bda\appcompat-1.1.0\res\layout\abc_list_menu_item_layout.xml:17
+# Referenced at C:\Users\damisgarcia\.gradle\caches\transforms-2\files-2.1\08d5dcb2ad36c8c391956f8e4b207bda\appcompat-1.1.0\res\layout\abc_cascading_menu_item_layout.xml:20
+-keep class androidx.appcompat.view.menu.ListMenuItemView { <init>(...); }
+
+# Referenced at C:\Users\damisgarcia\.gradle\caches\transforms-2\files-2.1\08d5dcb2ad36c8c391956f8e4b207bda\appcompat-1.1.0\res\layout\abc_screen_toolbar.xml:27
+-keep class androidx.appcompat.widget.ActionBarContainer { <init>(...); }
+
+# Referenced at C:\Users\damisgarcia\.gradle\caches\transforms-2\files-2.1\08d5dcb2ad36c8c391956f8e4b207bda\appcompat-1.1.0\res\layout\abc_screen_toolbar.xml:43
+# Referenced at C:\Users\damisgarcia\.gradle\caches\transforms-2\files-2.1\08d5dcb2ad36c8c391956f8e4b207bda\appcompat-1.1.0\res\layout\abc_action_mode_bar.xml:19
+-keep class androidx.appcompat.widget.ActionBarContextView { <init>(...); }
+
+# Referenced at C:\Users\damisgarcia\.gradle\caches\transforms-2\files-2.1\08d5dcb2ad36c8c391956f8e4b207bda\appcompat-1.1.0\res\layout\abc_screen_toolbar.xml:17
+-keep class androidx.appcompat.widget.ActionBarOverlayLayout { <init>(...); }
+
+# Referenced at C:\Users\damisgarcia\.gradle\caches\transforms-2\files-2.1\08d5dcb2ad36c8c391956f8e4b207bda\appcompat-1.1.0\res\layout\abc_action_menu_layout.xml:17
+-keep class androidx.appcompat.widget.ActionMenuView { <init>(...); }
+
+# Referenced at C:\Users\damisgarcia\.gradle\caches\transforms-2\files-2.1\08d5dcb2ad36c8c391956f8e4b207bda\appcompat-1.1.0\res\layout\abc_activity_chooser_view.xml:19
+-keep class androidx.appcompat.widget.ActivityChooserView$InnerLayout { <init>(...); }
+
+# Referenced at C:\Users\damisgarcia\.gradle\caches\transforms-2\files-2.1\08d5dcb2ad36c8c391956f8e4b207bda\appcompat-1.1.0\res\layout\abc_alert_dialog_material.xml:18
+-keep class androidx.appcompat.widget.AlertDialogLayout { <init>(...); }
+
+# Referenced at C:\Users\damisgarcia\.gradle\caches\transforms-2\files-2.1\2d9a79564085f5998cb78f0d8f1d1874\jetified-facebook-common-5.0.1\res\layout\com_facebook_smart_device_dialog_fragment.xml:47
+# Referenced at C:\Users\damisgarcia\.gradle\caches\transforms-2\files-2.1\2d9a79564085f5998cb78f0d8f1d1874\jetified-facebook-common-5.0.1\res\layout\com_facebook_device_auth_dialog_fragment.xml:45
+-keep class androidx.appcompat.widget.AppCompatImageView { <init>(...); }
+
+# Referenced at C:\Users\damisgarcia\.gradle\caches\transforms-2\files-2.1\08d5dcb2ad36c8c391956f8e4b207bda\appcompat-1.1.0\res\layout\abc_alert_dialog_button_bar_material.xml:26
+-keep class androidx.appcompat.widget.ButtonBarLayout { <init>(...); }
+
+# Referenced at C:\Users\damisgarcia\.gradle\caches\transforms-2\files-2.1\08d5dcb2ad36c8c391956f8e4b207bda\appcompat-1.1.0\res\layout\abc_screen_content_include.xml:19
+-keep class androidx.appcompat.widget.ContentFrameLayout { <init>(...); }
+
+# Referenced at C:\Users\damisgarcia\.gradle\caches\transforms-2\files-2.1\08d5dcb2ad36c8c391956f8e4b207bda\appcompat-1.1.0\res\layout\abc_alert_dialog_title_material.xml:45
+-keep class androidx.appcompat.widget.DialogTitle { <init>(...); }
+
+# Referenced at C:\Users\damisgarcia\.gradle\caches\transforms-2\files-2.1\08d5dcb2ad36c8c391956f8e4b207bda\appcompat-1.1.0\res\layout\abc_screen_simple_overlay_action_mode.xml:23
+-keep class androidx.appcompat.widget.FitWindowsFrameLayout { <init>(...); }
+
+# Referenced at C:\Users\damisgarcia\.gradle\caches\transforms-2\files-2.1\08d5dcb2ad36c8c391956f8e4b207bda\appcompat-1.1.0\res\layout\abc_screen_simple.xml:17
+# Referenced at C:\Users\damisgarcia\.gradle\caches\transforms-2\files-2.1\08d5dcb2ad36c8c391956f8e4b207bda\appcompat-1.1.0\res\layout\abc_dialog_title_material.xml:22
+-keep class androidx.appcompat.widget.FitWindowsLinearLayout { <init>(...); }
+
+# Referenced at C:\Users\damisgarcia\.gradle\caches\transforms-2\files-2.1\08d5dcb2ad36c8c391956f8e4b207bda\appcompat-1.1.0\res\layout\abc_search_view.xml:75
+-keep class androidx.appcompat.widget.SearchView$SearchAutoComplete { <init>(...); }
+
+# Referenced at C:\Users\damisgarcia\.gradle\caches\transforms-2\files-2.1\08d5dcb2ad36c8c391956f8e4b207bda\appcompat-1.1.0\res\layout-v26\abc_screen_toolbar.xml:37
+# Referenced at C:\Users\damisgarcia\.gradle\caches\transforms-2\files-2.1\6fcbc246a29c77a89d7e23de7fa64893\expoview-36.0.0\res\layout\oauth_webview_activity.xml:5
+# Referenced at C:\Users\damisgarcia\.gradle\caches\transforms-2\files-2.1\6fcbc246a29c77a89d7e23de7fa64893\expoview-36.0.0\res\layout\info_activity.xml:14
+# Referenced at C:\Users\damisgarcia\.gradle\caches\transforms-2\files-2.1\08d5dcb2ad36c8c391956f8e4b207bda\appcompat-1.1.0\res\layout\abc_screen_toolbar.xml:36
+-keep class androidx.appcompat.widget.Toolbar { <init>(...); }
+
+# Referenced at C:\Users\damisgarcia\.gradle\caches\transforms-2\files-2.1\08d5dcb2ad36c8c391956f8e4b207bda\appcompat-1.1.0\res\layout\abc_screen_simple_overlay_action_mode.xml:32
+# Referenced at C:\Users\damisgarcia\.gradle\caches\transforms-2\files-2.1\08d5dcb2ad36c8c391956f8e4b207bda\appcompat-1.1.0\res\layout\abc_screen_simple.xml:25
+-keep class androidx.appcompat.widget.ViewStubCompat { <init>(...); }
+
+# Referenced at C:\Users\damisgarcia\.gradle\caches\transforms-2\files-2.1\8ba03d5d4c56ada5718d9f0d3957895a\browser-1.0.0\res\layout\browser_actions_context_menu_page.xml:5
+-keep class androidx.browser.browseractions.BrowserActionsFallbackMenuView { <init>(...); }
+
+# Referenced at C:\Users\damisgarcia\.gradle\caches\transforms-2\files-2.1\2d9a79564085f5998cb78f0d8f1d1874\jetified-facebook-common-5.0.1\res\layout\com_facebook_smart_device_dialog_fragment.xml:22
+# Referenced at C:\Users\damisgarcia\.gradle\caches\transforms-2\files-2.1\2d9a79564085f5998cb78f0d8f1d1874\jetified-facebook-common-5.0.1\res\layout\com_facebook_device_auth_dialog_fragment.xml:22
+-keep class androidx.cardview.widget.CardView { <init>(...); }
+
+# Referenced at C:\Users\damisgarcia\.gradle\caches\transforms-2\files-2.1\71f878751c312e5a1ce316523e39be12\material-1.0.0\res\layout\design_bottom_sheet_dialog.xml:26
+-keep class androidx.coordinatorlayout.widget.CoordinatorLayout { <init>(...); }
+
+# Referenced at C:\Users\damisgarcia\.gradle\caches\transforms-2\files-2.1\08d5dcb2ad36c8c391956f8e4b207bda\appcompat-1.1.0\res\layout\abc_alert_dialog_material.xml:41
+-keep class androidx.core.widget.NestedScrollView { <init>(...); }
+
+# Referenced at C:\Users\damisgarcia\projects\apps\lds-app\android\app\src\main\res\layout\error_activity_new.xml:2
+-keep class androidx.viewpager.widget.ViewPager { <init>(...); }
+
+# Referenced at C:\Users\damisgarcia\.gradle\caches\transforms-2\files-2.1\71f878751c312e5a1ce316523e39be12\material-1.0.0\res\layout\design_bottom_navigation_item.xml:27
+-keep class com.google.android.material.internal.BaselineLayout { <init>(...); }
+
+# Referenced at C:\Users\damisgarcia\.gradle\caches\transforms-2\files-2.1\71f878751c312e5a1ce316523e39be12\material-1.0.0\res\layout\design_text_input_password_icon.xml:18
+-keep class com.google.android.material.internal.CheckableImageButton { <init>(...); }
+
+# Referenced at C:\Users\damisgarcia\.gradle\caches\transforms-2\files-2.1\71f878751c312e5a1ce316523e39be12\material-1.0.0\res\layout\design_navigation_item.xml:17
+-keep class com.google.android.material.internal.NavigationMenuItemView { <init>(...); }
+
+# Referenced at C:\Users\damisgarcia\.gradle\caches\transforms-2\files-2.1\71f878751c312e5a1ce316523e39be12\material-1.0.0\res\layout\design_navigation_menu.xml:17
+-keep class com.google.android.material.internal.NavigationMenuView { <init>(...); }
+
+# Referenced at C:\Users\damisgarcia\.gradle\caches\transforms-2\files-2.1\71f878751c312e5a1ce316523e39be12\material-1.0.0\res\layout\mtrl_layout_snackbar.xml:18
+# Referenced at C:\Users\damisgarcia\.gradle\caches\transforms-2\files-2.1\71f878751c312e5a1ce316523e39be12\material-1.0.0\res\layout\design_layout_snackbar.xml:18
+-keep class com.google.android.material.snackbar.Snackbar$SnackbarLayout { <init>(...); }
+
+# Referenced at C:\Users\damisgarcia\.gradle\caches\transforms-2\files-2.1\71f878751c312e5a1ce316523e39be12\material-1.0.0\res\layout\mtrl_layout_snackbar_include.xml:18
+# Referenced at C:\Users\damisgarcia\.gradle\caches\transforms-2\files-2.1\71f878751c312e5a1ce316523e39be12\material-1.0.0\res\layout\design_layout_snackbar_include.xml:18
+-keep class com.google.android.material.snackbar.SnackbarContentLayout { <init>(...); }
+
+# Referenced at C:\Users\damisgarcia\.gradle\caches\transforms-2\files-2.1\2b9e46133f2152c5ec941e42822fa0f7\jetified-android-maps-utils-0.5\res\layout\amu_text_bubble.xml:7
+-keep class com.google.maps.android.ui.RotationLayout { <init>(...); }
+
+# Referenced at C:\Users\damisgarcia\.gradle\caches\transforms-2\files-2.1\7d4d1715128d1a24258f50dccd38bdc5\jetified-android-image-cropper-2.7.0\res\layout\crop_image_activity.xml:2
+-keep class com.theartofdev.edmodo.cropper.CropImageView { <init>(...); }
+
+# Referenced at C:\Users\damisgarcia\.gradle\caches\transforms-2\files-2.1\7d4d1715128d1a24258f50dccd38bdc5\jetified-android-image-cropper-2.7.0\res\layout\crop_image_view.xml:13
+-keep class com.theartofdev.edmodo.cropper.CropOverlayView { <init>(...); }
+
+# Referenced at C:\Users\damisgarcia\projects\apps\lds-app\android\app\src\main\res\layout\error_fragment.xml:57
+# Referenced at C:\Users\damisgarcia\projects\apps\lds-app\android\app\src\main\res\layout\error_console_fragment.xml:25
+-keep class host.exp.exponent.views.ExponentImageButton { <init>(...); }
+

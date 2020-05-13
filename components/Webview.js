@@ -1,17 +1,18 @@
-import React, { useEffect  } from 'react'
-import { StyleSheet, BackHandler, Alert, Text, KeyboardAvoidingView } from 'react-native'
-import { ScreenOrientation } from 'expo'
+import React, { useEffect } from 'react'
+import { 
+    StyleSheet, 
+    BackHandler, 
+    Alert, 
+    Text, 
+    KeyboardAvoidingView
+} from 'react-native'
+
 import { WebView } from 'react-native-webview'
 
 import Constants from 'expo-constants';
 
 function WebViewComponent(props){
-    async function changeScreenOrientation() {
-        await ScreenOrientation.lockAsync(ScreenOrientation.Orientation.LANDSCAPE);
-    }
-    
     async function onLoadEnd() {
-        await changeScreenOrientation()
         props.onLoadEnd()
     }
 
@@ -22,7 +23,7 @@ function WebViewComponent(props){
                 {text: 'Sim', onPress: () => BackHandler.exitApp() }
             ])
             return true
-        });
+        })
     }, [])
 
     if (Constants.manifest.extra && Constants.manifest.extra.projectURL) {
@@ -30,7 +31,9 @@ function WebViewComponent(props){
             <KeyboardAvoidingView behavior="padding" style={styles.block}>
                 <WebView 
                     source={{ uri: Constants.manifest.extra.projectURL }}
-                    onLoadEnd={onLoadEnd} 
+                    automaticallyAdjustContentInsets={true}
+                    onLoadEnd={onLoadEnd}
+                    javaScriptEnabled={true}
                 />
             </KeyboardAvoidingView>
         )
@@ -40,7 +43,7 @@ function WebViewComponent(props){
 
 const styles = StyleSheet.create({
     block: {
-        flex: 1
+        flex: 1,
     }
 })
 

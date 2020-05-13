@@ -1,17 +1,19 @@
-import React, { useState } from 'react'
+import React, { useState, useEffect } from 'react'
 
 import { 
     ActivityIndicator, 
     View, 
-    StyleSheet,
-    KeyboardAvoidingView
+    StyleSheet
 } from 'react-native'
+
+import { ScreenOrientation } from 'expo'
 
 import WebView from './Webview'
 import Statusbar from './Statusbar'
 
 export default function Browser() {
     const [isReady, setIsReady] = useState(false)
+    const [isResize, setResize] = useState(false)
 
     function onLoadEnd(){
         setIsReady(true)
@@ -20,7 +22,7 @@ export default function Browser() {
     function RenderLoading(){
         if (!isReady) {
             return (
-                <View style={styles.centered}>
+                <View style={styles.loading}>
                     <ActivityIndicator size={64} color="#999" />
                 </View>
             )
@@ -36,27 +38,40 @@ export default function Browser() {
         )
     }
 
-    return (
-        <View style={styles.block}>
-            <Statusbar />
-            <RenderLoading />
-            <RenderWebView />
-        </View>
-    )
+    useEffect(() => {
+        async function changeScreenOrientation() {
+            await ScreenOrientation.lockAsync(ScreenOrientation.Orientation.LANDSCAPE)
+            setResize(true)
+        }
+        
+        changeScreenOrientation()
+    }, [])
+
+    if (isResize) {
+        return (
+            <View style={styles.block}>
+                <Statusbar />
+                <RenderWebView />
+                <RenderLoading />
+            </View>
+        )
+    }
+
+    return null
 }
 
 const styles = StyleSheet.create({
     block: {
-        flex: 1
+        flex: 1,
+        position: "relative"
     },
     browser: {
         flex: 1
     },
-    invisivle: {
-        width: 0,
-        height: 0,
+    invisible: {
+        flex: 0
     },
-    centered: {
+    loading: {
         flex: 1,
         alignItems: "center",
         justifyContent: "center"
