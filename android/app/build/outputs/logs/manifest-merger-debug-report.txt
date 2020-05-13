@@ -683,7 +683,7 @@ ADDED from C:\Users\damisgarcia\projects\apps\lds-app\android\app\src\main\Andro
 activity#host.exp.exponent.experience.HomeActivity
 ADDED from C:\Users\damisgarcia\projects\apps\lds-app\android\app\src\main\AndroidManifest.xml:99:5-105:16
 	android:screenOrientation
-		ADDED from C:\Users\damisgarcia\projects\apps\lds-app\android\app\src\main\AndroidManifest.xml:103:7-43
+		ADDED from C:\Users\damisgarcia\projects\apps\lds-app\android\app\src\main\AndroidManifest.xml:103:7-44
 	android:label
 		ADDED from C:\Users\damisgarcia\projects\apps\lds-app\android\app\src\main\AndroidManifest.xml:101:7-39
 	android:launchMode
@@ -695,7 +695,7 @@ ADDED from C:\Users\damisgarcia\projects\apps\lds-app\android\app\src\main\Andro
 activity#host.exp.exponent.experience.TvActivity
 ADDED from C:\Users\damisgarcia\projects\apps\lds-app\android\app\src\main\AndroidManifest.xml:107:5-116:15
 	android:screenOrientation
-		ADDED from C:\Users\damisgarcia\projects\apps\lds-app\android\app\src\main\AndroidManifest.xml:111:7-43
+		ADDED from C:\Users\damisgarcia\projects\apps\lds-app\android\app\src\main\AndroidManifest.xml:111:7-44
 	android:label
 		ADDED from C:\Users\damisgarcia\projects\apps\lds-app\android\app\src\main\AndroidManifest.xml:109:7-39
 	android:theme
@@ -800,7 +800,7 @@ ADDED from C:\Users\damisgarcia\projects\apps\lds-app\android\app\src\main\Andro
 activity#host.exp.exponent.experience.ErrorActivity
 ADDED from C:\Users\damisgarcia\projects\apps\lds-app\android\app\src\main\AndroidManifest.xml:220:5-224:16
 	android:screenOrientation
-		ADDED from C:\Users\damisgarcia\projects\apps\lds-app\android\app\src\main\AndroidManifest.xml:223:7-43
+		ADDED from C:\Users\damisgarcia\projects\apps\lds-app\android\app\src\main\AndroidManifest.xml:223:7-44
 	android:theme
 		ADDED from C:\Users\damisgarcia\projects\apps\lds-app\android\app\src\main\AndroidManifest.xml:222:7-49
 	android:name
@@ -808,7 +808,7 @@ ADDED from C:\Users\damisgarcia\projects\apps\lds-app\android\app\src\main\Andro
 activity#host.exp.exponent.experience.InfoActivity
 ADDED from C:\Users\damisgarcia\projects\apps\lds-app\android\app\src\main\AndroidManifest.xml:226:5-230:16
 	android:screenOrientation
-		ADDED from C:\Users\damisgarcia\projects\apps\lds-app\android\app\src\main\AndroidManifest.xml:228:7-43
+		ADDED from C:\Users\damisgarcia\projects\apps\lds-app\android\app\src\main\AndroidManifest.xml:228:7-44
 	android:theme
 		ADDED from C:\Users\damisgarcia\projects\apps\lds-app\android\app\src\main\AndroidManifest.xml:229:7-50
 	android:name

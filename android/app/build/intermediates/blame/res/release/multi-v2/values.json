@@ -300,11 +300,9 @@
                 {
                     "source": "C:\\Users\\damisgarcia\\projects\\apps\\lds-app\\android\\app\\src\\main\\res\\values\\ic_launcher_background.xml",
                     "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "57",
-                        "endColumns": "56",
-                        "endOffsets": "109"
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
                     },
                     "to": {
                         "startLines": "171",
@@ -410,11 +408,9 @@
                 {
                     "source": "C:\\Users\\damisgarcia\\projects\\apps\\lds-app\\android\\app\\src\\main\\res\\values\\ic_foreground_background.xml",
                     "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "57",
-                        "endColumns": "58",
-                        "endOffsets": "111"
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
                     },
                     "to": {
                         "startLines": "170",

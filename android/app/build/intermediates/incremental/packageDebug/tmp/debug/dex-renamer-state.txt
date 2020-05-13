@@ -1,4 +1,4 @@
-#Wed Apr 15 14:56:51 BRT 2020
+#Wed May 13 11:27:47 BRT 2020
 base.10=C\:\\Users\\damisgarcia\\projects\\apps\\lds-app\\android\\app\\build\\intermediates\\dex\\debug\\mergeLibDexDebug\\out\\classes_14.dex
 base.9=C\:\\Users\\damisgarcia\\projects\\apps\\lds-app\\android\\app\\build\\intermediates\\dex\\debug\\mergeLibDexDebug\\out\\classes_13.dex
 base.8=C\:\\Users\\damisgarcia\\projects\\apps\\lds-app\\android\\app\\build\\intermediates\\dex\\debug\\mergeLibDexDebug\\out\\classes_12.dex

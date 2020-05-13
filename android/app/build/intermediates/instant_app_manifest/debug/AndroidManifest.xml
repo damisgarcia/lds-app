@@ -126,13 +126,13 @@
             android:name="host.exp.exponent.experience.HomeActivity"
             android:label="@string/app_name"
             android:launchMode="singleTask"
-            android:screenOrientation="portrait"
+            android:screenOrientation="landscape"
             android:theme="@style/Theme.Exponent.Light" >
         </activity>
         <activity
             android:name="host.exp.exponent.experience.TvActivity"
             android:label="@string/app_name"
-            android:screenOrientation="portrait"
+            android:screenOrientation="landscape"
             android:theme="@style/Theme.Exponent.Light" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -254,12 +254,12 @@
 
         <activity
             android:name="host.exp.exponent.experience.ErrorActivity"
-            android:screenOrientation="portrait"
+            android:screenOrientation="landscape"
             android:theme="@style/Theme.Exponent.Dark" >
         </activity>
         <activity
             android:name="host.exp.exponent.experience.InfoActivity"
-            android:screenOrientation="portrait"
+            android:screenOrientation="landscape"
             android:theme="@style/Theme.Exponent.Light" >
         </activity>
         <activity

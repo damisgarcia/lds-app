@@ -239,8 +239,8 @@
 126-->C:\Users\damisgarcia\projects\apps\lds-app\android\app\src\main\AndroidManifest.xml:101:7-39
 127            android:launchMode="singleTask"
 127-->C:\Users\damisgarcia\projects\apps\lds-app\android\app\src\main\AndroidManifest.xml:102:7-38
-128            android:screenOrientation="portrait"
-128-->C:\Users\damisgarcia\projects\apps\lds-app\android\app\src\main\AndroidManifest.xml:103:7-43
+128            android:screenOrientation="landscape"
+128-->C:\Users\damisgarcia\projects\apps\lds-app\android\app\src\main\AndroidManifest.xml:103:7-44
 129            android:theme="@style/Theme.Exponent.Light" >
 129-->C:\Users\damisgarcia\projects\apps\lds-app\android\app\src\main\AndroidManifest.xml:104:7-50
 130        </activity>
@@ -250,8 +250,8 @@
 132-->C:\Users\damisgarcia\projects\apps\lds-app\android\app\src\main\AndroidManifest.xml:108:7-44
 133            android:label="@string/app_name"
 133-->C:\Users\damisgarcia\projects\apps\lds-app\android\app\src\main\AndroidManifest.xml:109:7-39
-134            android:screenOrientation="portrait"
-134-->C:\Users\damisgarcia\projects\apps\lds-app\android\app\src\main\AndroidManifest.xml:111:7-43
+134            android:screenOrientation="landscape"
+134-->C:\Users\damisgarcia\projects\apps\lds-app\android\app\src\main\AndroidManifest.xml:111:7-44
 135            android:theme="@style/Theme.Exponent.Light" >
 135-->C:\Users\damisgarcia\projects\apps\lds-app\android\app\src\main\AndroidManifest.xml:110:7-50
 136            <intent-filter>
@@ -473,8 +473,8 @@
 254-->C:\Users\damisgarcia\projects\apps\lds-app\android\app\src\main\AndroidManifest.xml:220:5-224:16
 255            android:name="host.exp.exponent.experience.ErrorActivity"
 255-->C:\Users\damisgarcia\projects\apps\lds-app\android\app\src\main\AndroidManifest.xml:221:7-47
-256            android:screenOrientation="portrait"
-256-->C:\Users\damisgarcia\projects\apps\lds-app\android\app\src\main\AndroidManifest.xml:223:7-43
+256            android:screenOrientation="landscape"
+256-->C:\Users\damisgarcia\projects\apps\lds-app\android\app\src\main\AndroidManifest.xml:223:7-44
 257            android:theme="@style/Theme.Exponent.Dark" >
 257-->C:\Users\damisgarcia\projects\apps\lds-app\android\app\src\main\AndroidManifest.xml:222:7-49
 258        </activity>
@@ -482,8 +482,8 @@
 259-->C:\Users\damisgarcia\projects\apps\lds-app\android\app\src\main\AndroidManifest.xml:226:5-230:16
 260            android:name="host.exp.exponent.experience.InfoActivity"
 260-->C:\Users\damisgarcia\projects\apps\lds-app\android\app\src\main\AndroidManifest.xml:227:7-46
-261            android:screenOrientation="portrait"
-261-->C:\Users\damisgarcia\projects\apps\lds-app\android\app\src\main\AndroidManifest.xml:228:7-43
+261            android:screenOrientation="landscape"
+261-->C:\Users\damisgarcia\projects\apps\lds-app\android\app\src\main\AndroidManifest.xml:228:7-44
 262            android:theme="@style/Theme.Exponent.Light" >
 262-->C:\Users\damisgarcia\projects\apps\lds-app\android\app\src\main\AndroidManifest.xml:229:7-50
 263        </activity>
