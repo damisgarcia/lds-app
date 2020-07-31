@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="Gradle: net.openid:appauth:0.7.1@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/33ec113588ee561f89ee75ca9c127fd2/jetified-appauth-0.7.1/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/33ec113588ee561f89ee75ca9c127fd2/jetified-appauth-0.7.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ef447c1e758bcc6460d488753b382c03/jetified-appauth-0.7.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ef447c1e758bcc6460d488753b382c03/jetified-appauth-0.7.1/res" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.openid/appauth/0.7.1/2a012c7d171e04616682e08e6cf5a22a56608694/appauth-0.7.1-javadoc.jar!/" />

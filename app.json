@@ -9,7 +9,7 @@
       "android",
       "web"
     ],
-    "version": "1.0.1",
+    "version": "1.0.4",
     "orientation": "portrait",
     "splash": {
       "image": "./assets/splash.png",
@@ -30,7 +30,7 @@
     "android": {
       "icon": "./assets/icon.android.png",
       "package": "br.ufc.virtual.lme.luzdosaber",
-      "versionCode": 5,
+      "versionCode": 6,
       "permissions": [],
       "publishBundlePath": "android\\app\\src\\main\\assets\\shell-app.bundle",
       "publishManifestPath": "android\\app\\src\\main\\assets\\shell-app-manifest.json"
@@ -39,7 +39,7 @@
       "visible": false
     },
     "extra": {
-      "projectURL": "https://luz-do-saber-portal-production.herokuapp.com"
+      "projectURL": "https://appluzdosaber.seduc.ce.gov.br"
     },
     "isDetached": true,
     "detach": {
