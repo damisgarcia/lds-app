@@ -21,7 +21,7 @@ def safeExtGet(prop, fallback) {
 }
 
 android {
-  compileSdkVersion safeExtGet("compileSdkVersion", 28)
+  compileSdkVersion safeExtGet("compileSdkVersion", 29)
 
   compileOptions {
     sourceCompatibility JavaVersion.VERSION_1_8
@@ -31,9 +31,9 @@ android {
   defaultConfig {
     applicationId 'br.ufc.virtual.lme.luzdosaber'
     minSdkVersion safeExtGet("minSdkVersion", 21)
-    targetSdkVersion safeExtGet("targetSdkVersion", 28)
-    versionCode 8
-    versionName '1.0.4'
+    targetSdkVersion safeExtGet("targetSdkVersion", 29)
+    versionCode 9
+    versionName '1.0.5'
 
     multiDexEnabled true
     testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"

@@ -30,7 +30,7 @@
     "android": {
       "icon": "./assets/icon.android.png",
       "package": "br.ufc.virtual.lme.luzdosaber",
-      "versionCode": 6,
+      "versionCode": 8,
       "permissions": [],
       "publishBundlePath": "android\\app\\src\\main\\assets\\shell-app.bundle",
       "publishManifestPath": "android\\app\\src\\main\\assets\\shell-app-manifest.json"

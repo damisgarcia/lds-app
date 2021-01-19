@@ -86,7 +86,7 @@
       <sourceFolder url="file://$MODULE_DIR$/src/test/shaders" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/build" />
     </content>
-    <orderEntry type="jdk" jdkName="Android API 28 Platform" jdkType="Android SDK" />
+    <orderEntry type="jdk" jdkName="Android API 29 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" scope="TEST" name="Gradle: junit:junit:4.12@jar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.mockito:mockito-core:1.10.19@jar" level="project" />
@@ -301,28 +301,28 @@
     <orderEntry type="library" name="Gradle: com.google.maps.android:android-maps-utils:0.5@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.android.exoplayer:extension-okhttp:2.9.2@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.android.installreferrer:installreferrer:1.0@aar" level="project" />
-    <orderEntry type="module" module-name="node_modules-expo-constants-android-expo-constants" />
-    <orderEntry type="module" module-name="node_modules-unimodules-image-loader-interface-android-unimodules-image-loader-interface" />
-    <orderEntry type="module" module-name="node_modules-expo-permissions-android-expo-permissions" />
-    <orderEntry type="module" module-name="node_modules-expo-web-browser-android-expo-web-browser" />
-    <orderEntry type="module" module-name="node_modules-expo-file-system-android-expo-file-system" />
-    <orderEntry type="module" module-name="node_modules-expo-location-android-expo-location" />
-    <orderEntry type="module" module-name="@unimodules-react-native-adapter-android-unimodules-react-native-adapter" />
-    <orderEntry type="module" module-name="@unimodules-core-android-unimodules-core" />
-    <orderEntry type="module" module-name="node_modules-expo-app-loader-provider-android-expo-app-loader-provider" />
-    <orderEntry type="module" module-name="node_modules-expo-error-recovery-android-expo-error-recovery" />
-    <orderEntry type="module" module-name="node_modules-expo-font-android-expo-font" />
-    <orderEntry type="module" module-name="node_modules-expo-keep-awake-android-expo-keep-awake" />
-    <orderEntry type="module" module-name="node_modules-expo-linear-gradient-android-expo-linear-gradient" />
-    <orderEntry type="module" module-name="node_modules-expo-sqlite-android-expo-sqlite" />
-    <orderEntry type="module" module-name="node_modules-unimodules-barcode-scanner-interface-android-unimodules-barcode-scanner-interface" />
-    <orderEntry type="module" module-name="node_modules-unimodules-camera-interface-android-unimodules-camera-interface" />
-    <orderEntry type="module" module-name="node_modules-unimodules-constants-interface-android-unimodules-constants-interface" />
-    <orderEntry type="module" module-name="node_modules-unimodules-face-detector-interface-android-unimodules-face-detector-interface" />
-    <orderEntry type="module" module-name="node_modules-unimodules-file-system-interface-android-unimodules-file-system-interface" />
-    <orderEntry type="module" module-name="node_modules-unimodules-font-interface-android-unimodules-font-interface" />
-    <orderEntry type="module" module-name="node_modules-unimodules-permissions-interface-android-unimodules-permissions-interface" />
-    <orderEntry type="module" module-name="node_modules-unimodules-sensors-interface-android-unimodules-sensors-interface" />
-    <orderEntry type="module" module-name="node_modules-unimodules-task-manager-interface-android-unimodules-task-manager-interface" />
+    <orderEntry type="module" module-name="node_modules-expo-constants-android-expo-constants~1" />
+    <orderEntry type="module" module-name="node_modules-unimodules-image-loader-interface-android-unimodules-image-loader-interface~1" />
+    <orderEntry type="module" module-name="node_modules-expo-permissions-android-expo-permissions~1" />
+    <orderEntry type="module" module-name="node_modules-expo-web-browser-android-expo-web-browser~1" />
+    <orderEntry type="module" module-name="node_modules-expo-file-system-android-expo-file-system~1" />
+    <orderEntry type="module" module-name="node_modules-expo-location-android-expo-location~1" />
+    <orderEntry type="module" module-name="@unimodules-react-native-adapter-android-unimodules-react-native-adapter~1" />
+    <orderEntry type="module" module-name="@unimodules-core-android-unimodules-core~1" />
+    <orderEntry type="module" module-name="node_modules-expo-app-loader-provider-android-expo-app-loader-provider~1" />
+    <orderEntry type="module" module-name="node_modules-expo-error-recovery-android-expo-error-recovery~1" />
+    <orderEntry type="module" module-name="node_modules-expo-font-android-expo-font~1" />
+    <orderEntry type="module" module-name="node_modules-expo-keep-awake-android-expo-keep-awake~1" />
+    <orderEntry type="module" module-name="node_modules-expo-linear-gradient-android-expo-linear-gradient~1" />
+    <orderEntry type="module" module-name="node_modules-expo-sqlite-android-expo-sqlite~1" />
+    <orderEntry type="module" module-name="node_modules-unimodules-barcode-scanner-interface-android-unimodules-barcode-scanner-interface~1" />
+    <orderEntry type="module" module-name="node_modules-unimodules-camera-interface-android-unimodules-camera-interface~1" />
+    <orderEntry type="module" module-name="node_modules-unimodules-constants-interface-android-unimodules-constants-interface~1" />
+    <orderEntry type="module" module-name="node_modules-unimodules-face-detector-interface-android-unimodules-face-detector-interface~1" />
+    <orderEntry type="module" module-name="node_modules-unimodules-file-system-interface-android-unimodules-file-system-interface~1" />
+    <orderEntry type="module" module-name="node_modules-unimodules-font-interface-android-unimodules-font-interface~1" />
+    <orderEntry type="module" module-name="node_modules-unimodules-permissions-interface-android-unimodules-permissions-interface~1" />
+    <orderEntry type="module" module-name="node_modules-unimodules-sensors-interface-android-unimodules-sensors-interface~1" />
+    <orderEntry type="module" module-name="node_modules-unimodules-task-manager-interface-android-unimodules-task-manager-interface~1" />
   </component>
 </module>
